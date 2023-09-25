@@ -7,7 +7,8 @@
 
 |技术专家|擅长的领域|开发语言|
 |:---|:---|:---|
-|[(CN) 劉強東](https://github.com/liangjingkanji)| 项目架构 / UX Tool / 网络通信 / 数据通信 | Kotlin |
+|[( CN ) 劉強東](https://github.com/liangjingkanji)| 项目架构 / UX Tool / 网络通信 / 数据通信 | Kotlin |
+|[( CN ) Vitaviva](https://github.com/vitaviva)| 组件 / Jetpack Compose | Kotlin |
 |[(USA) Aidan Follestad](https://github.com/afollestad)| Material Design / UX Tool | Kotlin |
 |[(Den) Amin Hassani](https://github.com/aminography)| 项目架构 / UX Tool (DatePicker) | Kotlin |
 
